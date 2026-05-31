@@ -1,3 +1,4 @@
+#![deny(unsafe_code)]
 #![allow(clippy::needless_range_loop)]
 use std::collections::HashMap;
 use serde::{Deserialize, Deserializer, Serialize, Serializer};
