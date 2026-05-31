@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Cellular sheaf cohomology: coboundary operators, sheaf Laplacians, and cohomology computation"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-sheaf-cohomology"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
